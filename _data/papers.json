@@ -3,14 +3,12 @@
 		"name": "Regularized Programming with the Bosque Language",
 		"image": "placeholder.jpg",
 		"url": "https://www.microsoft.com/en-us/research/uploads/prod/2019/04/beyond_structured_report_v2.pdf",
-		"date": "Apr 2019",
-		"tags": ["Bosque","Paper"]
+		"date": "Apr 2019"
 	},
 	{
 		"name": "SafeStrings Representing Strings as Structured Data",
 		"image": "placeholder.jpg",
 		"url": "https://arxiv.org/pdf/1904.11254.pdf",
-		"date": "Apr 2019",
-		"tags": ["Bosque","SafeStrings"]
+		"date": "Apr 2019"
 	}
 ]

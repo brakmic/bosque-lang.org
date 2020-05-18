@@ -4,4 +4,4 @@ title: Papers
 permalink: /papers/
 ---
 
-Papers.
+Papers

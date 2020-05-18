@@ -30,7 +30,7 @@ layout: null
       <item>
         <title>{{ paper.name | xml_escape }}</title>
         <description>{{ paper.name | xml_escape }}</description>
-        <link>{{ paper.url | prepend: site.url }}</link>
+        <link>{{ paper.url }}</link>
         <pubDate>{{ paper.date | date_to_rfc822 }}</pubDate>
         {% for tag in paper.tags %}
         <category>{{ tag | xml_escape }}</category>

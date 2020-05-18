@@ -4,4 +4,4 @@ title: Tutorials
 permalink: /tutorials/
 ---
 
-Tutorials.
+Tutorials

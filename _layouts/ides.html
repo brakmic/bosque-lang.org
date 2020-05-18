@@ -7,8 +7,8 @@ layout: default
     {{ content }}
 
     <div class="papers row">
-    {% include papers_tags.html %}
-    {% for i in site.data.papers %}
+    {% include ides_tags.html %}
+    {% for i in site.data.ides %}
     <div class="papers-item col-md-4 col-sm-6 col-xs-12" data-tags='{{ i.tags | jsonify | downcase }}'>
     	<div class="well papers-outer">
     		<div class="project-inner">
