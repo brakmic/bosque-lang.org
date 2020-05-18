@@ -1,0 +1,14 @@
+[
+  {
+    "icon": "fa-twitter",
+    "link": "https://twitter.com/bosquelanguage"
+  },
+  {
+    "icon": "fa-github",
+    "link": "https://github.com/microsoft/BosqueLanguage"
+  },
+  {
+    "icon": "fa-windows",
+    "link": "https://www.microsoft.com/en-us/research/project/bosque-programming-language/"
+  }
+]
