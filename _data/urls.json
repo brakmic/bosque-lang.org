@@ -21,7 +21,7 @@
     "icon": "fa-graduation-cap"
   },
   {
-    "text": "XML Feed",
+    "text": "RSS Feed",
     "url": "/feed.xml",
     "icon": "fa-feed",
     "target": "_blank"
