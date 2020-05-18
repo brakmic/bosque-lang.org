@@ -1,30 +1,16 @@
 [
 	{
-		"name": "Paper 1",
+		"name": "Regularized Programming with the Bosque Language",
 		"image": "placeholder.jpg",
-		"url": "#",
-		"date": "Jan 2020",
-		"tags": ["Angular JS","API"]
+		"url": "https://www.microsoft.com/en-us/research/uploads/prod/2019/04/beyond_structured_report_v2.pdf",
+		"date": "Apr 2019",
+		"tags": ["Bosque","Paper"]
 	},
 	{
-		"name": "Paper 2",
+		"name": "SafeStrings Representing Strings as Structured Data",
 		"image": "placeholder.jpg",
-		"url": "#",
-		"date": "Feb 2020",
-		"tags": ["Android","PHP"]
-	},
-	{
-		"name": "Paper 3",
-		"image": "placeholder.jpg",
-		"url": "#",
-		"date": "June 2019",
-		"tags": ["HTML","JQuery","PHP"]
-	},
-	{
-		"name": "Paper 4",
-		"image": "placeholder.jpg",
-		"date": "Oct 2019",
-		"tags": ["Android","nodejs"]
+		"url": "https://arxiv.org/pdf/1904.11254.pdf",
+		"date": "Apr 2019",
+		"tags": ["Bosque","SafeStrings"]
 	}
-
 ]
